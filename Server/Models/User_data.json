@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "address": "123 Main St, New York, NY",
+      "rating": 4.5,
+      "comments": [
+        "Great service and quality products!",
+        "Loved the customer service. Highly recommended!"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "address": "456 Elm St, Los Angeles, CA",
+      "rating": 4.2,
+      "comments": [
+        "Decent store but could improve pricing.",
+        "Top-notch quality! Will visit again."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "email": "charlie.brown@example.com",
+      "address": "789 Oak St, Chicago, IL",
+      "rating": 3.9,
+      "comments": [
+        "Good selection, but slow checkout.",
+        "Loved their organic products."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Diana Prince",
+      "email": "diana.prince@example.com",
+      "address": "321 Maple St, Houston, TX",
+      "rating": 4.8,
+      "comments": [
+        "Best place in town! Amazing experience.",
+        "Quality and service are unbeatable."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Ethan White",
+      "email": "ethan.white@example.com",
+      "address": "654 Pine St, San Francisco, CA",
+      "rating": 4.6,
+      "comments": [
+        "Super fast service! Loved it.",
+        "Great experience, will return soon."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Fiona Green",
+      "email": "fiona.green@example.com",
+      "address": "987 Birch St, Miami, FL",
+      "rating": 4.1,
+      "comments": [
+        "Nice place but a bit pricey.",
+        "Friendly staff and good variety."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "George King",
+      "email": "george.king@example.com",
+      "address": "741 Cedar St, Seattle, WA",
+      "rating": 4.7,
+      "comments": [
+        "Loved their discounts and deals.",
+        "Best electronics store in town!"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Hannah Lee",
+      "email": "hannah.lee@example.com",
+      "address": "852 Spruce St, Denver, CO",
+      "rating": 3.8,
+      "comments": [
+        "Decent quality but long wait times.",
+        "Not bad, but could improve customer service."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Ian Walker",
+      "email": "ian.walker@example.com",
+      "address": "963 Redwood St, Boston, MA",
+      "rating": 4.4,
+      "comments": [
+        "Good prices and friendly staff.",
+        "Excellent store! Will shop here again."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Julia Adams",
+      "email": "julia.adams@example.com",
+      "address": "159 Palm St, Dallas, TX",
+      "rating": 4.3,
+      "comments": [
+        "Good deals but limited stock.",
+        "Nice atmosphere and clean store."
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Kevin Brooks",
+      "email": "kevin.brooks@example.com",
+      "address": "555 Willow St, Portland, OR",
+      "rating": 4.6,
+      "comments": [
+        "Amazing place! Highly recommend.",
+        "Superb customer support."
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Laura Wilson",
+      "email": "laura.wilson@example.com",
+      "address": "777 Aspen St, Phoenix, AZ",
+      "rating": 3.7,
+      "comments": [
+        "Average experience, nothing special.",
+        "Decent store but needs more variety."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Michael Clark",
+      "email": "michael.clark@example.com",
+      "address": "888 Cherry St, Austin, TX",
+      "rating": 4.9,
+      "comments": [
+        "Best shopping experience ever!",
+        "Amazing deals and top-quality products."
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Nancy Harris",
+      "email": "nancy.harris@example.com",
+      "address": "999 Maplewood St, Atlanta, GA",
+      "rating": 4.2,
+      "comments": [
+        "Good selection, but customer service could be better.",
+        "Nice store, but checkout lines are too long."
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Oscar Reed",
+      "email": "oscar.reed@example.com",
+      "address": "1010 Olive St, San Diego, CA",
+      "rating": 4.5,
+      "comments": [
+        "Very clean and organized!",
+        "Friendly staff and quick checkout."
+      ]
+    }
+  ]
+  
